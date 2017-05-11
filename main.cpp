@@ -2,7 +2,7 @@
 //  main.cpp
 //  RacingGL
 //
-//  Created by Javier Dalma on 3/29/17.
+//  Created by Napoleon Cortes and Javier Dalma on 3/29/17.
 //  Copyright © 2017 Javier Dalma. All rights reserved.
 //
 
